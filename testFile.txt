@@ -18,3 +18,10 @@ This is line 11 on line number 15
 This is line 12 on line number 16
 This is Third line added on branch (Line number 3)
 
+
+LINE ADDED AFTER BRANCH2
+
+ANOTHER LINE ADDED
+
+YET ANOTHER LINE
+
